@@ -1,4 +1,4 @@
-## Video and Audio Streaming Client and Server
+## Video and Audio Streaming Client and Server( TCP & UDP) Protocols
 
 This project involves a Python-based client and server setup for streaming video and audio frames over UDP and TCP protocols. The client receives frames, while the server sends frames. Below are detailed explanations and setup instructions for both the client and server components.
 
